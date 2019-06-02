@@ -1,1 +1,3 @@
- *.* linguist-language=Java,PHP,HTML
+ *.* linguist-language=Java
+ *.* linguist-language=PHP
+
